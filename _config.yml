@@ -1,10 +1,9 @@
 title: Muhammad Rafi Projo Al Jito # your name (or website title) here
 logo: "/images/WhatsApp Image 2022-09-26 at 19.06.41.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Description 
   <br>Hallo<br>
-  Second description 
-  <br><br>
+
   <a href="https://www.linkedin.com/in/muhammad-rafi-projo-al-jito-911b34250/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
